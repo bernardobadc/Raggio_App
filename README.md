@@ -1,0 +1,2 @@
+Nesta aplicação desenvolvi um sistema de cadastro de alunos para uma escola de Jiu Jitsu do Rio de Janeiro, utilizando Python, Tkinter e CustomTkinter para criação da interface gráfica, além de outras bibliotecas
+como Pillow para o uso de imagens e Pandas para utilizar recursos de Excel e gerar planilhas com base na tabela e base de dados. A base de dados foi criada com SQLite3, armazenada localmente na máquina do cliente.
